@@ -137,7 +137,11 @@ class MyWindow(QtWidgets.QMainWindow):
 		f.close()
 
 	def readData(self):
-		f = open('user data.txt','r')
+		try:
+			f = open('user data.txt','r')
+		except:
+			open('user data.txt','x')
+			f = open('user data.txt','r')
 		data = f.read()
 		if data == '':
 			self.Data = {}

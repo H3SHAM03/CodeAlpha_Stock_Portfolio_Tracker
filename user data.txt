@@ -1,1 +1,1 @@
-{'AAPL': {'quantity': 8, 'purchased for': 1765.5200000000002}}
+{}
