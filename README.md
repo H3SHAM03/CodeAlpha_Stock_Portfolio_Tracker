@@ -1,5 +1,8 @@
 # Stock Portfolio Tracker
 
+## Important Notice
+If you see the "**No symbol provided**" error even you did type it, then your **API has reached its daily limit** you can fix this issue by **changing you IP Address via any VPN software**.
+
 ## Overview
 A graphical user interface (GUI) application for tracking stock prices and portfolio performance.
 
