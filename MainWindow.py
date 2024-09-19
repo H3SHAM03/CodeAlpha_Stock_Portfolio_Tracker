@@ -7,7 +7,7 @@ from PyQt5.QtCore import Qt
 import resources
 import json
 
-API_KEY = 'HIKG6DRBH95PSUK3'
+API_KEY = 'HIKG6DRBH95PSUK3' #replace with your own code
 
 def showDialog(msg):
 	msgBox = QMessageBox()
