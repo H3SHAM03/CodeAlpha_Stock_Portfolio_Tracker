@@ -5,7 +5,6 @@ from PyQt5.QtWidgets import QVBoxLayout,QMessageBox,QTableWidgetItem
 from PyQt5 import QtWidgets, uic, QtCore, QtGui
 from PyQt5.QtCore import Qt
 import resources
-import json
 
 API_KEY = 'HIKG6DRBH95PSUK3' #replace with your own code
 
