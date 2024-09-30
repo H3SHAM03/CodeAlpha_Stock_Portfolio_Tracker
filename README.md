@@ -6,6 +6,9 @@ If you see the "**No symbol provided**" error even you did type it, then your **
 ## Overview
 A graphical user interface (GUI) application for tracking stock prices and portfolio performance.
 
+## Demo Video
+https://github.com/user-attachments/assets/5b7a8470-5f55-4db3-b607-2acd0d06c780
+
 ## Features
 * Retrieve real-time stock prices from **Alpha Vantage API**
 * Add and remove stocks from portfolio
