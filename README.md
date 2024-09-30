@@ -30,6 +30,9 @@ https://github.com/user-attachments/assets/5b7a8470-5f55-4db3-b607-2acd0d06c780
 ## API Key
 This application uses the **Alpha Vantage API** to retrieve stock prices. You will need to obtain an API key from **Alpha Vantage** and replace the API_KEY variable in the code with your own key.
 
+## License
+This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
+
 ## Contributing
 Contributions are welcome! If you'd like to report an issue or suggest a feature, please open an issue or pull request.
 
